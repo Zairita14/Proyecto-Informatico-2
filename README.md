@@ -1,4 +1,4 @@
-# Proyecto-Informatico-2
+# Proyecto Informatico 2
 
 ## Integrantes del grupo :
 
